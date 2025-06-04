@@ -93,3 +93,4 @@ DELETE DATA
 📈ACCESS STUDENT RESULT
 ![Screenshot 2025-06-04 125157](https://github.com/user-attachments/assets/d0e91ba9-c83a-4964-a594-b839f483f043)
 ![Screenshot 2025-06-04 125211](https://github.com/user-attachments/assets/529a03f9-3c3f-4c9c-ac42-d36fe24930da)
+
